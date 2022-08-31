@@ -1,0 +1,7 @@
+Analysis of school and standardised test data using Pandas and Jupyter Notebook,
+
+
+Two trends in school performers are : 
+1. Independent Schools have a higher scores than Government schools int he Local Government Area that was looked at.
+
+2. Smaller Size schools got slightly higher rating of scores than the larger schools
